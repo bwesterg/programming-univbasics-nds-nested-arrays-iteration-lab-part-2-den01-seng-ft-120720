@@ -16,5 +16,6 @@ while row_index < src.count do
   row_index += 1
 end
 
-puts outer_results
+
 end
+puts outer_results
